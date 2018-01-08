@@ -1,0 +1,7 @@
+CustomerResource.class
+Database.class
+RestProperties.class
+LogContextInterceptor.class
+META-INF\services\javax.ws.rs.core.Application
+ConverterApplication.class
+ConverterServiceHealthCheck.class
